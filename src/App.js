@@ -1,9 +1,13 @@
+import Iletisim from "./Iletisim";
 
-import './App.css';
 
 function App() {
-  return (
+  return (<>
    <p>Merhabalarr!</p>
+
+<Iletisim/>
+
+   </>
   );
 }
 
